@@ -1,0 +1,22 @@
+
+7
+
+slade Data/Audio/slade.wav
+
+
+mainHurt Data/Audio/mainHurt.wav
+
+
+bgmusic Data/Audio/bgmusic.wav
+
+
+kamesmall Data/Audio/kameSmall.wav
+
+
+kamedown Data/Audio/kamedown.wav
+
+
+screamDeath Data/Audio/screamDeath.wav
+
+
+screamGoku Data/Audio/screamGoku.wav
